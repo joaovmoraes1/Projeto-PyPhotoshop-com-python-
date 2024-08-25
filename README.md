@@ -49,7 +49,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
----
-
-Essa organização segue a estrutura do exemplo que você forneceu e facilita a compreensão do projeto.
