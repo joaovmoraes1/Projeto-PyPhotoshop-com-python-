@@ -4,29 +4,24 @@ Este projeto realiza transformações e aplicação de filtros em imagens utiliz
 
 Estrutura do Projeto
 image.py: Script que contém funções relacionadas ao carregamento e manipulação básica de imagens.
-
 png.py: Script responsável por operações específicas em imagens no formato PNG.
-
 run_filters.py: Script principal que aplica filtros pré-definidos nas imagens fornecidas.
-
 transform_empty.py: Script que transforma imagens, potencialmente aplicando operações que resultam em imagens "vazias" ou com partes transparentes.
-
 transform.py: Script que realiza diversas transformações em imagens, como redimensionamento, rotação, etc.
-
 requirements.txt: Arquivo que lista as dependências necessárias para executar o projeto.
-
-
 Como Executar
-1. Instalação de Dependências: Instale as dependências necessárias utilizando o pip:
+Instalação de Dependências
+Instale as dependências necessárias utilizando o pip:
 
+bash
+Copiar código
 pip install -r requirements.txt
+Executar Transformações
+Utilize os scripts conforme necessário. Por exemplo, para aplicar filtros:
 
-
-2. Executar Transformações: Utilize os scripts conforme necessário. Por exemplo, para aplicar filtros:
-   
-    python run_filters.py
-
-
+bash
+Copiar código
+python run_filters.py
 Dependências
 Certifique-se de ter Python 3.x instalado.
 As bibliotecas necessárias estão listadas no arquivo requirements.txt.
