@@ -9,19 +9,14 @@ run_filters.py: Script principal que aplica filtros pré-definidos nas imagens f
 transform_empty.py: Script que transforma imagens, potencialmente aplicando operações que resultam em imagens "vazias" ou com partes transparentes.
 transform.py: Script que realiza diversas transformações em imagens, como redimensionamento, rotação, etc.
 requirements.txt: Arquivo que lista as dependências necessárias para executar o projeto.
+
 Como Executar
 Instalação de Dependências
-Instale as dependências necessárias utilizando o pip:
+Instale as dependências necessárias utilizando o pip: pip install -r requirements.txt
 
-bash
-Copiar código
-pip install -r requirements.txt
 Executar Transformações
-Utilize os scripts conforme necessário. Por exemplo, para aplicar filtros:
+Utilize os scripts conforme necessário. Por exemplo, para aplicar filtros: python run_filters.py
 
-bash
-Copiar código
-python run_filters.py
 Dependências
 Certifique-se de ter Python 3.x instalado.
 As bibliotecas necessárias estão listadas no arquivo requirements.txt.
